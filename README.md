@@ -1,4 +1,4 @@
-# Attacking-mySQL-Database
+# Attacked-mySQL-Database
 ## Objective
 - View and Analyze a PCAP file from a previous attack against a SQL database. <br>
 Part 1: Open Wireshark and load the PCAP file. <br>
